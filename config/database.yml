@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: factual
+  host: localhost
+  pool: 5
+  username: pc
+  password: isiri
